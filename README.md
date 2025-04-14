@@ -26,7 +26,7 @@ This site was created as part of STAT228 at Simmons University. It serves as a p
 
 This project explores how the Boston Celtics perform in high-pressure, late-game situations using clutch statistics. I used tidyverse tools to clean and analyze performance data and visualize player stats during the final minutes of close games.
 
-🔗 [View Project 1](https://mahamtaj5.github.io/Mini_Projects/mp1.html)
+https://mahamtaj5.github.io/Mini_Projects/
 
 ---
 
@@ -34,7 +34,7 @@ This project explores how the Boston Celtics perform in high-pressure, late-game
 
 In this project, I analyzed the relationship between NBA player salaries and their on-court performance. I explored salary distributions, performance outliers, and created comparative plots to examine trends.
 
-🔗 [View Project 2](https://mahamtaj5.github.io/Mini_Projects/mp2.html)
+ https://mahamtaj5.github.io/Mini_Projects/
 
 ---
 
