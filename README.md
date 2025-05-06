@@ -38,7 +38,7 @@ In this project, I analyzed the relationship between NBA player salaries and the
 
 ---
 
-##STAT228 Final Project: The Three-Point Revolution
+## STAT228 Final Project: The Three-Point Revolution
 
 **Title:** *The Three-Point Revolution: How Efficiency Behind the Arc Predicts NBA Team Success (2003–2023)*
 
