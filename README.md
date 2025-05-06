@@ -38,3 +38,13 @@ In this project, I analyzed the relationship between NBA player salaries and the
 
 ---
 
+##STAT228 Final Project: The Three-Point Revolution
+
+**Title:** *The Three-Point Revolution: How Efficiency Behind the Arc Predicts NBA Team Success (2003–2023)*
+
+**Description:**  
+In this project, I explored whether three-point shooting efficiency (3P%) predicts NBA team success across 20 regular seasons (2003–2023). Using R for data cleaning, visualization, and linear modeling, I found that higher 3P% is a statistically significant predictor of win rate. The results highlight the strategic value of long-range shooting in today’s NBA.
+
+ [View Project Website](https://mahamtaj5.github.io/nba-threepoint-efficiency/)  
+ [Download Slide Deck (PDF)](https://mahamtaj5.github.io/nba-threepoint-efficiency/slides.pdf)
+
